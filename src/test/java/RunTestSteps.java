@@ -5,6 +5,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Keys;
 
 import static com.codeborne.selenide.Selectors.byName;
@@ -37,7 +38,7 @@ public class RunTestSteps {
     @Given("^GetDriver$")
     public void getdriver() throws InterruptedException {
         open("http://www.mail.ru/");
-        getWebDriver().manage().window().maximize();
+        getWebDriver().manage().window().setSize(new Dimension(1920, 1080));
     }
 
     @When("^Got to Mail\\.ru$")

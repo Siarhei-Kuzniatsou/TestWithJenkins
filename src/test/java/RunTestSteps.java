@@ -24,13 +24,13 @@ public class RunTestSteps {
 
     @Then("^the button \"([^\"]*)\" should be visible$")
     public void theButtonShouldBeVisible(String arg0) {
-        assertEquals(true, $(By.xpath("//span[contains(text(),'Compose')]"))
+        assertEquals(true, $(By.xpath("//span[@title='Compose']"))
                 .isEnabled());
     }
 
     @Then("^the \"([^\"]*)\" should be visible$")
     public void theShouldBeVisible(String button) {
-        assertEquals(true, $(By.xpath("//div[text()='" + button + "']")).isEnabled());
+        assertEquals(true, $(By.xpath("//a[@href='/" + button + "/']")).isEnabled());
     }
 
 

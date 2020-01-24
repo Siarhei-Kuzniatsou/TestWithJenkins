@@ -12,9 +12,9 @@ Feature: Test mail.ru by second method
 
     Examples:
       | Buttons |
-      | Inbox   |
-      | Sent    |
-      | Drafts  |
+      | inbox   |
+      | sent    |
+      | drafts  |
 
 
 

@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16c2e852-7f2d-4ec3-ae18-cee860abeca9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855840661.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855840661.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855846661.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855846661.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855852046.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855852046.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855926133.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855926133.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855932242.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855932242.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855937826.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855937826.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855973123.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855973123.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855979698.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855979698.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855985073.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579855985073.2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579856118180.0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579856118180.0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579856123319.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579856123319.1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579856128683.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/1579856128683.2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testSecond.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testSecond.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RunTestSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RunTestSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RunTestSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RunTestSteps.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +54,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1WncYRkjjuBTB2WK7RSFCKmmIwB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -119,46 +148,59 @@
       <option name="project" value="LOCAL" />
       <updated>1579791944849</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tetst2">
+      <created>1579793431196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579793431196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="tetst" />
-    <option name="LAST_COMMIT_MESSAGE" value="tetst" />
+    <MESSAGE value="tetst2" />
+    <option name="LAST_COMMIT_MESSAGE" value="tetst2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Project_Structure" timestamp="1579788910839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1579788910839" />
-    <state x="557" y="115" key="CommitChangelistDialog2" timestamp="1579791943646">
+    <state x="557" y="115" key="CommitChangelistDialog2" timestamp="1579793429946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="557" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579791943646" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579790779935">
+    <state x="557" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579793429946" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579856322665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579790779935" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579790779935">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579856322665" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579856322665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579790779935" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579790779935">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579856322665" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579856322665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579790779935" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579790779935">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579856322665" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579856322665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579790779935" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579856322665" />
     <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1579789018969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579789018969" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579791952275">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579793432700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579791952275" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579793432700" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579855250574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579855250574" />
     <state x="731" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579790352902">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
